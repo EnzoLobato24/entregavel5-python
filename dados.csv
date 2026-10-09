@@ -1,0 +1,5 @@
+email,cpf,telefone,data
+ana.silva@example.com,123.456.789-09,(11) 91234-5678,15/03/2025
+bruno@example.com,12345678901,11987654321,2025-04-20
+email-invalido,111,telefone,31/02/2025
+carla.mendes@example.org,987.654.321-00,+55 21 99876-5432,2024-12-01
